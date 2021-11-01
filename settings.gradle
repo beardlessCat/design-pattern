@@ -2,4 +2,5 @@ rootProject.name = 'design-pattern'
 include 'adapter'
 include 'singleton'
 include 'strategy'
+include 'factory'
 

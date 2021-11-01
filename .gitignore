@@ -5,6 +5,7 @@ gradle-app.setting
 .gradletasknamecache
 !gradle/wrapper/gradle-wrapper.jar
 
+*.class
 ### STS ###
 .apt_generated
 .classpath

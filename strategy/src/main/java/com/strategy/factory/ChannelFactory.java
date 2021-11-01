@@ -9,12 +9,7 @@ import java.util.Map;
 
 @Slf4j
 public class ChannelFactory {
-    /**
-     * 存放不同渠道来源名单的处理实例bean
-     * telChannelService
-     * smsChannelService
-     * wechatChannelService
-     */
+
     private static final Map<String, String> SERVICE_BEAN_MAP = new HashMap<>(3);
 
     static {
